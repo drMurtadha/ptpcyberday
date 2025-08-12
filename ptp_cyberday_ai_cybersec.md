@@ -71,9 +71,9 @@ Over-reliance on AI can erode problem-solving skills and make employees less con
 
 ## 4. Useful WEF Articles
 - **Why there will be plenty of jobs in the future — even with AI** [link](https://www.weforum.org/stories/2024/02/artificial-intelligence-ai-jobs-future/?utm_source=chatgpt.com)
-- **Why transport and supply chain ecosystems need strong cybersecurity** [link](https://www.enterpriseitworld.com/world-economic-forum-highlights-growing-supply-chain-cyber-threats-in-global-cybersecurity-outlook-2025/?utm_source=chatgpt.com)
-- **5 risks from supply chain connections in cybersecurity**
-- **Why cyber resilience should be a top priority for freight forwarders**
+- **Why transport and supply chain ecosystems need strong cybersecurity**  [link](https://www.weforum.org/stories/2024/06/transport-supply-chain-ecosystems-cyber-resilience/?utm_source=chatgpt.com)
+- **5 risks from supply chain connections in cybersecurity** [link](https://www.enterpriseitworld.com/world-economic-forum-highlights-growing-supply-chain-cyber-threats-in-global-cybersecurity-outlook-2025/?utm_source=chatgpt.com)
+- **Why cyber resilience should be a top priority for freight forwarders** [link](https://www.weforum.org/stories/2024/06/transport-supply-chain-ecosystems-cyber-resilience/?utm_source=chatgpt.com)
 - **How digital collaboration shapes industrial clusters**
 - **Using AI to improve heavy equipment and support a sustainable blue economy**
 - **AI geopolitics and data centres in the age of technological rivalry**
